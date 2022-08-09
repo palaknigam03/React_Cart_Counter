@@ -1,0 +1,44 @@
+.add-to-cart {
+
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: 50px;
+    background-color: beige;
+}
+
+
+.image{
+    height: 200px;
+    width: 100%;
+    margin-left: 710px;
+}
+
+.butoon-container{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    align-content: space-between;
+    margin-top: 20px;
+    
+}
+
+.btn-wrapper button {
+    background-color: #50972f;
+    border: 0px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+    margin-inline: 5px;
+}
+.btn-wrapper-b2{
+    background-color: white;
+    border: 0px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+    margin-inline: 5px;
+}
+.text-wrapper{
+    margin-top: 15px;
+}
